@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^6.3.7",
-    "babel-eslint": "^6.1.2",
+    "babel-eslint": "^10.1.0",
     "babel-loader": "^6.2.4",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
     "babel-plugin-transform-class-properties": "^6.10.2",
@@ -34,7 +34,7 @@
     "gulp-postcss": "^6.1.1",
     "gulp-util": "^3.0.7",
     "imports-loader": "^0.6.5",
-    "postcss-cssnext": "^2.7.0",
+    "postcss-cssnext": "^3.1.1",
     "postcss-import": "^8.1.2",
     "postcss-loader": "^0.9.1",
     "url-loader": "^0.5.7",
